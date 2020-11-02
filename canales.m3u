@@ -1,0 +1,14 @@
+# EXTM3U
+
+#EXTINF: -1, Animal Planet SD (E) (CL)
+http://tvla.xyz:80/live/pkgeskfa/rBP24yhq57/35194.m3u8
+#EXTINF: -1, Animal Planet FHD (E) (CL)
+http://tvla.xyz:80/live/pkgeskfa/rBP24yhq57/35195.m3u8
+#EXTINF: -1, canal histórico SD (E)
+http://tvla.xyz:80/live/pkgeskfa/rBP24yhq57/35196.m3u8
+#EXTINF: -1, canal histórico FHD (doble)
+http://tvla.xyz:80/live/pkgeskfa/rBP24yhq57/35197.m3u8
+#EXTINF: -1, Historial 2 SD (E)
+http://tvla.xyz:80/live/pkgeskfa/rBP24yhq57/35198.m3u8
+#EXTINF: -1, ¡Hola! TV FHD (doble)
+http://tvla.xyz:80/live/pkgeskfa/rBP24yhq57/35199.m3u8
